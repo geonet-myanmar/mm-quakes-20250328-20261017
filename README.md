@@ -4,7 +4,7 @@ An interactive, single-file web GIS application that visualizes real-time earthq
 
 Designed to run natively on **GitHub Pages** with zero build steps, backend servers, or API keys required.
 
-🔗 **Live Map:** `https://<your-github-username>.github.io/<your-repo-name>/` *(Update with your GitHub Pages URL)*
+🔗 **Live Map:** `https://geonet-myanmar.github.io/mm-quakes-20250328-20261017/
 
 ---
 
@@ -100,8 +100,8 @@ No build tools or `npm` packages are needed. To run locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone https://github.com/geonet-myanmar/mm-quakes-20250328-20261017.git
+   cd mm-quakes-20250328-20261017
    ```
 2. Double-click `index.html` to open it directly in any modern browser, or serve it over localhost using Python:
    ```bash
